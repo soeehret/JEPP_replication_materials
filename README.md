@@ -12,3 +12,5 @@ Analysis scripts, in the R-language version 4.1.2:
 Data (R):
 
 conjoint_data_analysis.Rdata.
+
+Copyright to all data: Sönke Ehret
